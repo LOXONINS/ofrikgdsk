@@ -243,3 +243,5 @@ SMTP：gmail<br>
 # ■画面遷移図
 https://www.figma.com/design/F7GnUwk1alxVNno9hX03sj/ofrikgdsk?node-id=22-246&t=HxP8HjxlIMb1Ty5E-1
 
+# ■ER図
+https://dbdiagram.io/d/6794fe44263d6cf9a00aeeb9
