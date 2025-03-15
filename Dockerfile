@@ -9,7 +9,7 @@ ARG RUBY_VERSION=3.3.6
 FROM docker.io/library/ruby:$RUBY_VERSION-slim AS base
 
 # Rails app lives here
-WORKDIR /rails
+WORKDIR /ofrikgdsk
 
 # Install base packages
 RUN apt-get update -qq && \
